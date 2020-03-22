@@ -25,4 +25,18 @@
   Скрипты, подключенные в head
   ![img](<network/blocking/Снимок экрана от 2020-03-22 16-15-46.png>)
   ![img](<network/blocking/Снимок экрана от 2020-03-22 16-16-04.png>)
-# dz-4-devtools
+
+---
+
+## Perfomance
+
+- [Архив](Profile-20200322T162954.json)
+- ### 1.Измерить время в миллисекундах от начала навигации до событий First Paint, First Meaningful Paint, DOM Content Loaded, Load
+
+  ![img](<perfomance/Снимок экрана от 2020-03-22 16-35-06.png>)
+  ![img](<perfomance/Снимок экрана от 2020-03-22 16-35-20.png>)
+  ![img](<perfomance/Снимок экрана от 2020-03-22 16-35-35.png>)
+  ![img](<perfomance/Снимок экрана от 2020-03-22 16-37-07.png>)
+
+- ### 2.Измерить, сколько времени в миллисекундах тратится на разные этапы обработки документа (Loading, Scripting, Rendering, Painting)
+  ![img](<perfomance/Снимок экрана от 2020-03-22 16-32-00.png>)
